@@ -1,8 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
-let g:netrw_dirhist_1='/webroot/fast-ravine-9239/config'
-let g:netrw_dirhist_2='/webroot/fast-ravine-9239'
-let g:netrw_dirhist_3='/home/william/fast-ravine-9239'
-let g:netrw_dirhist_4='/home/william'
-let g:netrw_dirhist_5='/home/william/fast-ravine-9239'
-let g:netrw_dirhist_6='/webroot/fast-ravine-9239'
