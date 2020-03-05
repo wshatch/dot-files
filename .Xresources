@@ -1,0 +1,59 @@
+XTerm*selectToClipboard:true
+XTerm*faceName: "Knack Nerd Font"
+XTerm*faceSize: 14
+
+URxvt.font: xft:Knack Nerd Font:size=14
+URxvt.letterSpace: -2
+URxvt.scrollBar: false
+
+! special
+*.foreground: #d9e0cc
+*.background: #242622
+
+! black
+*.color0: #22212b
+*.color8: #56546d
+
+! red
+*.color1: #dd2f48
+*.color9: #dd2f48
+
+! green
+*.color2: #16842d
+*.color10: #16842d
+
+! yellow
+*.color3: #e0da4c
+*.color11: #e0da4c
+
+! blue
+*.color4: #2549a3
+*.color12: #2549a3
+
+! magenta
+*.color5: #910c5a
+*.color13: #910c5a
+
+! cyan
+*.color6: #42c0e3
+*.color14: #42c0e3
+
+! white
+*.color7: #c0c5ce
+*.color15: #eff1f5      
+
+! rofi
+rofi.modi: run
+rofi.font: Hack 14
+rofi.width: 100
+rofi.lines: 2
+rofi.column: 1
+rofi.opacity: 80
+rofi.location: 1
+rofi.fuzzy: false
+rofi.padding: 10
+rofi.bw: 0
+!
+rofi.color-normal: #b7bea6, #43145b, #b7bea6, #693e67, #e0dead
+rofi.color-active: #b7bea6, #43145b, #b7bea6, #43145b, #e0dead
+rofi.color-window: #b7bea6, #b7bea6 
